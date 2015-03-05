@@ -1,0 +1,7 @@
+/var/log/httpmon/httpmon.log {
+        size 1k
+        compress
+	rotate 30
+	create 644 root root
+}
+
